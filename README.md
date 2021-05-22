@@ -1,3 +1,3 @@
 This project is yet to be released and is under development
 
-Copyright LOLOLOLO
+Copyright 69420
