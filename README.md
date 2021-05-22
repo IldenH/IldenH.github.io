@@ -1,2 +1,3 @@
-# Hello-world
-Hello-world
+This project is yet to be released and is under development
+
+Copyright LOLOLOLO
