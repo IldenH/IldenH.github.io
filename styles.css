@@ -6,3 +6,10 @@
 .background {
     background-image: linear-gradient(#FF6666, #FF9999)
 }
+
+.helloWorld {
+    font-size: 1.3em;
+    border: 2px solid rgb(121, 105, 10);
+    background-color: goldenrod;
+    cursor: pointer;
+}
