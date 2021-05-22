@@ -2,3 +2,7 @@
     user-select: none;
     text-align: center;
 }
+
+.background {
+    background-image: linear-gradient(#FF6666, #FF9999)
+}
