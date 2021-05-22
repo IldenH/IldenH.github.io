@@ -4,6 +4,8 @@ function moremoney() {
     money += 1
 };
 
+updategui()
+
 function updategui() {
     document.getElementById("Hello, World!").textContent = "Hello, World! " + money
     
