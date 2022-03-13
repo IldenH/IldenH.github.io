@@ -1,7 +1,6 @@
 * {
     font-family: sans-serif;
     user-select: none;
-    text-align: center;
     color: white;
 
     /* Tre "viktige" ting :) */
@@ -16,10 +15,10 @@
 
 .ildenh {
     font-size: 10em;
+    text-align: center;
     background: linear-gradient(rgb(128,0,0), rgb(255,0,0));
-    cursor: pointer;
 }
 
 .link {
-    /*font-size: 3em;*/
+    font-size: 2em;
 }
