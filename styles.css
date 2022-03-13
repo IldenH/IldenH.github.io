@@ -1,15 +1,20 @@
 * {
+    font-family: sans-serif;
     user-select: none;
     text-align: center;
+    color: white;
 }
 
 .background {
-    background-image: linear-gradient(#FF6666, #FF9999)
+    background: black;
 }
 
-.helloWorld {
-    font-size: 1.3em;
-    border: 2px solid rgb(121, 105, 10);
-    background-color: goldenrod;
+.ildenh {
+    font-size: 10em;
+    background: linear-gradient(rgb(128,0,0), rgb(255,0,0));
     cursor: pointer;
+}
+
+.link {
+    /*font-size: 3em;*/
 }
