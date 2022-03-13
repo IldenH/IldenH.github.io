@@ -3,6 +3,11 @@
     user-select: none;
     text-align: center;
     color: white;
+
+    /* Tre "viktige" ting :) */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 .background {
